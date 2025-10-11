@@ -12,3 +12,4 @@
 | 6. | [Expressway Writeup](Expressway/readme.md) | Linux | Easy | [Expressway](https://app.hackthebox.com/machines/736) | Season 9 Machine |
 | 7. | [Voleur Writeup](Voleur/readme.md) | Windows | Medium | [Voleur](https://app.hackthebox.com/machines/Voleur) | Season 8 Machine |
 | 8. | [Puppy Writeup](Puppy/readme.md) | Windows | Medium | [Puppy](https://app.hackthebox.com/machines/Puppy) | Season 8 Machine |
+| 9. | [Imagery Writeup](Imagery/readme.md) | Linux | Medium | [Imagery](https://app.hackthebox.com/machines/751) | Season 9 Machine |
